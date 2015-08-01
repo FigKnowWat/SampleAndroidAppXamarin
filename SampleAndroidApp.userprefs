@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SampleAndroidApp\SampleAndroidApp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Xamarin_Android_API_21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleAndroidApp\Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="SampleAndroidApp\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SampleAndroidApp\Resources\values\Strings.xml" Line="4" Column="43" />
+      <File FileName="SampleAndroidApp\Properties\AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleAndroidApp AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
